@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="CoadingTracker, C sharp .NET 8 console project">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11152c"/><stop offset="1" stop-color="#0a1022"/></linearGradient><linearGradient id="ln"><stop stop-color="#49e9f0"/><stop offset="1" stop-color="#a172ff"/></linearGradient></defs>
+<rect width="1000" height="270" rx="14" fill="url(#bg)"/><rect x="1" y="1" width="998" height="268" rx="13" fill="none" stroke="#3c5d83" stroke-width="2"/>
+<path d="M0 0h206" stroke="#a172ff" stroke-width="4"/><text x="38" y="48" fill="#a172ff" font-family="Consolas,monospace" font-size="18">PROJECT.LOG / PUBLIC REPOSITORY</text>
+<text x="38" y="113" fill="#eef5ff" font-family="Segoe UI,Arial,sans-serif" font-size="45" font-weight="700">CoadingTracker</text>
+<text x="40" y="158" fill="#aebfda" font-family="Segoe UI,Arial,sans-serif" font-size="23">A C# console project targeting .NET 8.</text>
+<rect x="39" y="184" width="213" height="42" rx="8" fill="#142d42" stroke="#367c95"/>
+<text x="55" y="212" fill="#49e9f0" font-family="Consolas,monospace" font-size="19">OPEN REPOSITORY ↗</text>
+<path d="M618 77h284v148H618z" fill="#080f20" stroke="#3a5c7c" stroke-width="2"/>
+<path d="M618 102h284" stroke="#3a5c7c"/><circle cx="635" cy="90" r="4" fill="#e78191"/><circle cx="651" cy="90" r="4" fill="#e9be76"/><circle cx="667" cy="90" r="4" fill="#55d5b4"/>
+<text x="640" y="135" fill="#49e9f0" font-family="Consolas,monospace" font-size="19">&gt; dotnet run</text>
+<text x="640" y="165" fill="#edf5ff" font-family="Consolas,monospace" font-size="18">Now I have method</text>
+<path d="M641 194h194" stroke="url(#ln)" stroke-width="4"/>
+</svg>

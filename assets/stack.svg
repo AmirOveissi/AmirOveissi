@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="278" viewBox="0 0 1000 278" role="img" aria-label="Technology stack: C sharp, .NET 8 and 10, React, TypeScript, Tailwind CSS, PWAs, Microsoft Dynamics AX">
+<rect width="1000" height="278" rx="14" fill="#0b1227"/><rect x="1" y="1" width="998" height="276" rx="13" fill="none" stroke="#3c5d83" stroke-width="2"/>
+<path d="M0 0h155" stroke="#49e9f0" stroke-width="4"/><text x="38" y="45" fill="#49e9f0" font-family="Consolas,monospace" font-size="18">TOOLCHAIN / WORKED WITH</text>
+<text x="39" y="94" fill="#9eb5d0" font-family="Consolas,monospace" font-size="18">BACK END</text><text x="310" y="94" fill="#eaf3ff" font-family="Consolas,monospace" font-size="22">C#   /   .NET 8   /   .NET 10</text>
+<path d="M39 113h922" stroke="#28405e"/>
+<text x="39" y="151" fill="#9eb5d0" font-family="Consolas,monospace" font-size="18">FRONT END</text><text x="310" y="151" fill="#eaf3ff" font-family="Consolas,monospace" font-size="22">React   /   TypeScript   /   Tailwind CSS</text>
+<path d="M39 170h922" stroke="#28405e"/>
+<text x="39" y="208" fill="#9eb5d0" font-family="Consolas,monospace" font-size="18">APPLICATIONS</text><text x="310" y="208" fill="#eaf3ff" font-family="Consolas,monospace" font-size="22">PWA   /   Microsoft Dynamics AX</text>
+<path d="M39 228h922" stroke="#28405e"/><text x="39" y="256" fill="#a172ff" font-family="Consolas,monospace" font-size="15">Experience is broader than the repositories currently published here.</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="238" viewBox="0 0 1000 238" role="img" aria-label="About Amir Oveissi">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1126"/><stop offset="1" stop-color="#171435"/></linearGradient></defs>
+<rect width="1000" height="238" rx="14" fill="url(#bg)"/><rect x="1" y="1" width="998" height="236" rx="13" fill="none" stroke="#3c5d83" stroke-width="2"/>
+<path d="M0 0h230" stroke="#49e9f0" stroke-width="4"/><text x="37" y="48" fill="#49e9f0" font-family="Consolas,monospace" font-size="18">IDENTITY / AMIR OVEISSI</text>
+<text x="37" y="110" fill="#eef5ff" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700">Hi, I'm Amir.</text>
+<text x="39" y="154" fill="#b0c2da" font-family="Segoe UI,Arial,sans-serif" font-size="23">I work across .NET, React, and enterprise systems.</text>
+<text x="39" y="188" fill="#b0c2da" font-family="Segoe UI,Arial,sans-serif" font-size="23">C# · TypeScript · PWAs · Microsoft Dynamics AX</text>
+<path d="M784 25v187M819 25v187M854 25v187M889 25v187M924 25v187" stroke="#233957"/>
+<path d="M772 74h170M772 109h170M772 144h170M772 179h170" stroke="#233957"/>
+<text x="796" y="155" fill="#a172ff" font-family="Consolas,monospace" font-size="77" font-weight="700">AO</text>
+</svg>
