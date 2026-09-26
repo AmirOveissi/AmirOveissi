@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Amir Oveissi — C#, .NET, React and TypeScript developer profile" src="./light.svg" width="100%">
-  </picture>
+  <img src="./assets/identity.gif" width="100%" alt="Animated terminal identity card for Amir Oveissi" />
 </div>
 
 <br />
